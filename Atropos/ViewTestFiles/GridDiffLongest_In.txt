@@ -1,0 +1,5 @@
+3 3
+Osiris Sekhmet Ra
+10c 80c 730c
+Hawk Hippo Ant
+15F 0T 19F 1F 23T 7F 10T 24T

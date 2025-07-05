@@ -1,0 +1,181 @@
+Empire of the World
+
+A new video game, Empire of the World, was recently released in the vein of Sid Meier's Civlization series. Brian, Caroline, Nicholas, Sarah, and Violet recently started a multiplayer game using the randomly-assigned world leaders Genghis Khan, Attila the Hun, Boudiica, Ramesses II, and Alexander the Great. Each player selected a different primary weapon, which is one of the Steel Sword, Ash Longbow, Trident, Greek Fire, or Poisoned Spear. The goal of the game is to conquer as many world cities as possible, and the first five cities to fall were Paris, Rio de Janeiro, Sydney, Mumbai, and Timbuktu -- each to a different player.
+
+4 5
+
+Player
+	Brian
+	Caroline
+	Nicholas
+	Sarah
+	Violet
+World Leader
+	Genghis
+	Attila
+	Boudica
+	Ramesses
+	Alexander
+Conquered City
+	Paris
+	Rio
+	Sydney
+	Mumbai
+	Timbuktu
+Weapon
+	Sword
+	Longbow
+	Trident
+	Greek Fire
+	Spear
+	
+BRI_GEN
+BRI_ATT
+BRI_BOU
+BRI_RAM
+BRI_ALX
+BRI_PAR
+BRI_RIO
+BRI_SYD
+BRI_MUM
+BRI_TIM
+BRI_SWO
+BRI_BOW
+BRI_TRI
+BRI_FIR
+BRI_SPE
+CAR_GEN
+CAR_ATT
+CAR_BOU
+CAR_RAM
+CAR_ALX
+CAR_PAR
+CAR_RIO
+CAR_SYD
+CAR_MUM
+CAR_TIM
+CAR_SWO
+CAR_BOW
+CAR_TRI
+CAR_FIR
+CAR_SPE
+NIC_GEN
+NIC_ATT
+NIC_BOU
+NIC_RAM
+NIC_ALX
+NIC_PAR
+NIC_RIO
+NIC_SYD
+NIC_MUM
+NIC_TIM
+NIC_SWO
+NIC_BOW
+NIC_TRI
+NIC_FIR
+NIC_SPE
+SAR_GEN
+SAR_ATT
+SAR_BOU
+SAR_RAM
+SAR_ALX
+SAR_PAR
+SAR_RIO
+SAR_SYD
+SAR_MUM
+SAR_TIM
+SAR_SWO
+SAR_BOW
+SAR_TRI
+SAR_FIR
+SAR_SPE
+VIO_GEN
+VIO_ATT
+VIO_BOU
+VIO_RAM
+VIO_ALX
+VIO_PAR
+VIO_RIO
+VIO_SYD
+VIO_MUM
+VIO_TIM
+VIO_SWO
+VIO_BOW
+VIO_TRI
+VIO_FIR
+VIO_SPE
+SWO_GEN
+SWO_ATT
+SWO_BOU
+SWO_RAM
+SWO_ALX
+SWO_PAR
+SWO_RIO
+SWO_SYD
+SWO_MUM
+SWO_TIM
+BOW_GEN
+BOW_ATT
+BOW_BOU
+BOW_RAM
+BOW_ALX
+BOW_PAR
+BOW_RIO
+BOW_SYD
+BOW_MUM
+BOW_TIM
+TRI_GEN
+TRI_ATT
+TRI_BOU
+TRI_RAM
+TRI_ALX
+TRI_PAR
+TRI_RIO
+TRI_SYD
+TRI_MUM
+TRI_TIM
+FIR_GEN
+FIR_ATT
+FIR_BOU
+FIR_RAM
+FIR_ALX
+FIR_PAR
+FIR_RIO
+FIR_SYD
+FIR_MUM
+FIR_TIM
+SPE_GEN
+SPE_ATT
+SPE_BOU
+SPE_RAM
+SPE_ALX
+SPE_PAR
+SPE_RIO
+SPE_SYD
+SPE_MUM
+SPE_TIM
+PAR_GEN
+PAR_ATT
+PAR_BOU
+PAR_RAM
+PAR_ALX
+RIO_GEN
+RIO_ATT
+RIO_BOU
+RIO_RAM
+RIO_ALX
+SYD_GEN
+SYD_ATT
+SYD_BOU
+SYD_RAM
+SYD_ALX
+MUM_GEN
+MUM_ATT
+MUM_BOU
+MUM_RAM
+MUM_ALX
+TIM_GEN
+TIM_ATT
+TIM_BOU
+TIM_RAM
+TIM_ALX

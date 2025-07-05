@@ -1,0 +1,6 @@
+
+Summary View: Test Puzzle
+================================================================================
+{    Banana         Barbarian        Epic          Motto           EpiPen      }
+{    Coinage       Sarsparilla      Coulomb      Insignia       Technobabble   }
+{   Turquoise      Nicaraguan       Solfege      Semicolon       Scoliosis     }

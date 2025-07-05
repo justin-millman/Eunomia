@@ -1,0 +1,9 @@
+
+Summary View: Test Puzzle
+=========================================================
+{    Caped                                   Sycamore   }
+{   Estuary      Challenge                              }
+{   Torrent                     Heroic                  }
+{                 Opaque                     Scuttle    }
+{                 Potato        Iodine                  }
+{                               Cholera       Cavern    }
